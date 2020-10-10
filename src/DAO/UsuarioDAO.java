@@ -10,7 +10,7 @@ import java.sql.Statement;
 public class UsuarioDAO {
 
     static final String DB_URL
-            = "jdbc:mysql://localhost:3306/prueba?serverTimezone=UTC ";
+            = "jdbc:mysql://localhost:3306/prueba?serverTimezone=UTC";
     static final String DB_USER = "root";
     static final String DB_PASSWD = "EHCkez99";
 
